@@ -1,5 +1,6 @@
 # Virtual env directory.
 venv
+myenv
 
 # Python compiles files
 __pycache__
@@ -7,3 +8,4 @@ __pycache__
 # IDE config files
 .idea
 .DS_Store
+.vscode
